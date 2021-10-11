@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Samachar</string>
+    <string name="api_key">e70f76a14817465d979fd81e76757676</string>
+    <string name="home">Home</string>
+    <string name="sports">Sports</string>
+    <string name="science">Science</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="technology">Technology</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="health">Health</string>
+</resources>
