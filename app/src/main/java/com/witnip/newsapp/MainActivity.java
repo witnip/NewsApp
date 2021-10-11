@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.google.android.material.tabs.TabLayout;
-import com.witnip.newsapp.adapter.PagerAdapter;
+import com.witnip.newsapp.adapters.PagerAdapter;
 import com.witnip.newsapp.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
